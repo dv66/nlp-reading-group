@@ -1,4 +1,4 @@
-# Celloscope NLP Paper Reading Group
+# NLP Paper Reading Group
 We will read and present papers every week regularly. Everyone gets 10 minute for presentation. Summarize the paper into a ppt/pdf presentation. This will help us stay focused and aligned with cutting-edge NLP research and create motivation for our own research project.
 
 
