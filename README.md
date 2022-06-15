@@ -5,6 +5,7 @@ We will read and present papers every week regularly. Everyone gets 10 minute fo
 ## Thursday, 23 June, 2022
 
 1. (Shahrar) **[ACL 2022] [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://aclanthology.org/2022.acl-long.292/)**
+2. (Ajwad) **[ACL 2022] [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32)**
 
 
 
