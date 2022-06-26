@@ -5,12 +5,8 @@ We will read and present papers every week regularly. Everyone gets 15 minutes f
 
 1. (Shukti) **[ACL 2022] [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://aclanthology.org/2022.acl-long.514)**
 2. (Sakib) **[NAACL 2022]  [CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning](https://siddharthverma314.github.io/research/chai-acl-2022/)**
-
-
-## Thursday, 23 June, 2022
-
-1. (Shahrar) **[ACL 2022] [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://aclanthology.org/2022.acl-long.292/)**
-2. (Ajwad) **[ACL 2022] [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32)**
+3. (Shahrar) **[ACL 2022] [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://aclanthology.org/2022.acl-long.292/)**
+4. (Ajwad) **[ACL 2022] [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32)**
 
 
 
