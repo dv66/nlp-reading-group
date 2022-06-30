@@ -1,12 +1,17 @@
 # NLP Paper Reading Group
 We will read and present papers every week regularly. Everyone gets 15 minutes for presentation. Summarize the paper into a ppt/pdf presentation. This will help us stay focused and aligned with cutting-edge NLP research and create motivation for our own research project.
 
-## Thursday, 30 June, 2022
+
+## Thursday, 07 July, 2022
 
 1. (Shukti) **[ACL 2022] [Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings](https://aclanthology.org/2022.acl-long.514)**
-2. (Sakib) **[NAACL 2022]  [CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning](https://siddharthverma314.github.io/research/chai-acl-2022/)**
-3. (Shahrar) **[ACL 2022] [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://aclanthology.org/2022.acl-long.292/)**
-4. (Ajwad) **[ACL 2022] [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32)**
+2. (Ajwad) **[ACL 2022] [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32)**
+
+
+## Thursday, 30 June, 2022
+
+1. (Sakib) **[NAACL 2022]  [CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning](https://siddharthverma314.github.io/research/chai-acl-2022/)** [[slide]](https://docs.google.com/presentation/d/1-Huj65B5vbs3BnqwxVX4ExP0zX3HpGddVAqYn314Oo0/edit?usp=sharing)
+2. (Shahrar) **[ACL 2022] [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://aclanthology.org/2022.acl-long.292/)** [[slide]](https://docs.google.com/presentation/d/1xQBE4irVqutZyfSbuxBp-E4E-6PPC4_AD3GjcqU7Knk/edit?usp=drivesdk)
 
 
 
